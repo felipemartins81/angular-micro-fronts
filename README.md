@@ -1,4 +1,4 @@
-# App
+# Micro Front Ends in Angular 20.0 + @angular-architects/native-federation
 
 ## Development server
 
@@ -6,7 +6,11 @@ To start a local development server, open 3 terminal instances and run simultane
 
 ```bash
 ng serve shell
+```
+```bash
 ng serve micro-front-1
+```
+```bash
 ng serve micro-front-2
 ```
 
