@@ -14,7 +14,7 @@ ng serve micro-front-1
 ng serve micro-front-2
 ```
 
-Once the servers is running, open your browser and navigate to `http://localhost:4200/`.
+Once the servers are running, open your browser and navigate to `http://localhost:4200/`.
 
 
 ## Project structure
