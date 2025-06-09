@@ -1,4 +1,4 @@
-# Micro Front Ends in Angular 20.0 + @angular-architects/native-federation
+# Micro Front Ends in Angular 20.0 + Native-federation
 
 ## Development server
 
